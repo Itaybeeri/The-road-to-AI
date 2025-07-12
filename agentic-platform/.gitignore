@@ -131,3 +131,5 @@ output/
 # Misc
 *.bak
 *.swp 
+# OpenAI secret key file
+openai_api_key.secret 
