@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+nest_asyncio
+asyncpg
