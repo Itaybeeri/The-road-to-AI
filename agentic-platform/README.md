@@ -41,8 +41,8 @@ Agentic Platform is a modular, agentic task-processing system that combines a Fa
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/agentic-platform.git
-cd agentic-platform
+git clone https://github.com/Itaybeeri/The-road-to-AI.git
+cd The-road-to-AI/agentic-platform
 ```
 
 ### 2. Install dependencies
